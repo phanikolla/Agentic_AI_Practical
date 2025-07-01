@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>Hands-on, modular notebooks for building, analyzing, and extending agentic AI systems.<br/>
-  Part of the <a href="../../README.md">Agentic_AI Practical Knowledge Repository</a>.</em>
+  Part of the <a href="../README.md">Agentic_AI Practical Knowledge Repository</a>.</em>
 </p>
 
 ---
