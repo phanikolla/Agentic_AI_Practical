@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai" alt="OpenAI API">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebooks">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
 </p>
 
 <h1 align="center">🧩 LangGraph & Agentic AI Practical Notebooks</h1>
@@ -41,6 +42,12 @@ This folder contains a suite of Jupyter notebooks for practical, hands-on learni
   <em>Deep dive into LangGraph agent components, state management, and advanced agent flows.</em>
 - **Agentic_search_tools.ipynb**  
   <em>Practical agentic search and web scraping using Tavily, DuckDuckGo, and BeautifulSoup.</em>
+- **Human in the Loop.ipynb**  
+  <em>Demonstrates human-in-the-loop workflows for agentic AI systems.</em>
+- **Persistence and Streaming.ipynb**  
+  <em>Shows how to persist agent state and stream outputs for robust, real-world applications.</em>
+- **My_Personal_Agent.ipynb**  
+  <em>Builds a personalized agentic AI assistant, integrating multiple tools and APIs.</em>
 
 ---
 
@@ -50,6 +57,9 @@ langgraph/
 ├── Agent_Creation.ipynb         # ReAct agent from scratch
 ├── Langgraph_components.ipynb   # LangGraph agent components
 ├── Agentic_search_tools.ipynb   # Agentic search & web scraping
+├── Human in the Loop.ipynb      # Human-in-the-loop agentic AI
+├── Persistence and Streaming.ipynb # Persistence & streaming outputs
+├── My_Personal_Agent.ipynb      # Personalized agentic AI assistant
 └── README.md                    # This documentation
 ```
 
