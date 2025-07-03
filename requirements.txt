@@ -1,0 +1,14 @@
+openai
+httpx
+python-dotenv
+requests
+bs4
+duckduckgo-search
+tavily-python
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-openai
+langchain-community
+pygments
+ipython 
