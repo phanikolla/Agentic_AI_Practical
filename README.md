@@ -38,12 +38,22 @@ Whether you're a student, researcher, or developer, you'll find practical knowle
 
 ---
 
-## �� Project Structure
+## 🗂️ Project Structure
 ```
 Agentic_AI_Practical/
 ├── langgraph/        # All practical agentic AI notebooks & docs
+├── MCP/              # Modular Component Projects (e.g., sentiment analysis)
+│   └── mcp-sentiment/   # Sentiment analysis Gradio app
 ├── README.md         # This file
 ```
+
+---
+
+## 🧩 MCP: Modular Component Projects
+The `MCP` directory contains standalone, practical AI modules that can be used independently or integrated into larger agentic AI systems.
+
+### Included MCP Projects
+- [`mcp-sentiment`](./MCP/mcp-sentiment/): Gradio-powered sentiment analysis tool with a web UI. See its [README](./MCP/mcp-sentiment/README.md) for setup and usage.
 
 ---
 
