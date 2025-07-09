@@ -27,9 +27,10 @@ Whether you're a student, researcher, or developer, you'll find practical knowle
 ---
 
 ## 🚀 Quick Start
-1. Navigate to the [`langgraph/`](./langgraph) folder.
-2. Open the [README](./langgraph/README.md) for detailed instructions and notebook guides.
-3. Launch any notebook in Jupyter or VS Code and start exploring!
+1. Navigate to the [`langgraph/`](./langgraph) folder for agentic AI notebooks and guides.
+2. Navigate to the [`langchain_practical/`](./langchain_practical) folder for LangChain demos and practical guides.
+3. Open the [README](./langgraph/README.md) or [LangChain Practical README](./langchain_practical/README.md) for detailed instructions and notebook guides.
+4. Launch any notebook in Jupyter or VS Code and start exploring!
 
 ### Prerequisites
 - Python 3.8+
@@ -41,10 +42,11 @@ Whether you're a student, researcher, or developer, you'll find practical knowle
 ## 🗂️ Project Structure
 ```
 Agentic_AI_Practical/
-├── langgraph/        # All practical agentic AI notebooks & docs
-├── MCP/              # Modular Component Projects (e.g., sentiment analysis)
-│   └── mcp-sentiment/   # Sentiment analysis Gradio app
-├── README.md         # This file
+├── langgraph/            # All practical agentic AI notebooks & docs
+├── langchain_practical/  # LangChain practical notebooks & demos
+├── MCP/                  # Modular Component Projects (e.g., sentiment analysis)
+│   └── mcp-sentiment/    # Sentiment analysis Gradio app
+├── README.md             # This file
 ```
 
 ---
@@ -54,6 +56,20 @@ The `MCP` directory contains standalone, practical AI modules that can be used i
 
 ### Included MCP Projects
 - [`mcp-sentiment`](./MCP/mcp-sentiment/): Gradio-powered sentiment analysis tool with a web UI. See its [README](./MCP/mcp-sentiment/README.md) for setup and usage.
+
+---
+
+## 🦾 LangChain Practical
+The `langchain_practical` directory contains hands-on, modular Jupyter notebooks and demos for learning and experimenting with LangChain's advanced features for language model applications.
+
+### Key Areas Covered
+- **Function Calling**: OpenAI function calling, custom tools, error handling
+- **LangChain Expression Language (LCEL)**: Composable chains, workflow building
+- **Tagging & Extraction**: NER, information extraction, data validation
+- **Tools & Routing APIs**: Custom tool creation, API integration, schema validation
+- **Conversational Agent**: Multi-turn agents, tool integration, dynamic conversations
+
+See the [`langchain_practical/README.md`](./langchain_practical/README.md) for detailed guides, code examples, and usage instructions.
 
 ---
 
